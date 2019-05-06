@@ -11,7 +11,7 @@ Download relevant packages found in requirements.txt.
 Follow instructions inside notebook.
 
 Authors:
-Shubadra Govindan (sgovin9@uic.edu)
-Amlaan Bhoi (abhoi3@uic.edu)
-Mohit Adwani (madwan2@uic.edu)
-Debojit Kaushik (dkaush4@uic.edu)
+- Shubadra Govindan (sgovin9@uic.edu)
+- Amlaan Bhoi (abhoi3@uic.edu)
+- Mohit Adwani (madwan2@uic.edu)
+- Debojit Kaushik (dkaush4@uic.edu)
