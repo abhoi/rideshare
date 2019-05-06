@@ -8,6 +8,8 @@ Download relevant packages found in requirements.txt.
 
 `pip install -r requirements.txt`
 
+Download d2d.csv file from [here](https://drive.google.com/a/uic.edu/file/d/1DxYDAuBn8T2ROyRsuvWR7gZqYIIXt9pJ/view?usp=sharing) and store it in data/db folder before running the code.
+
 Follow instructions inside notebook.
 
 Authors:
